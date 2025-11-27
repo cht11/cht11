@@ -13,8 +13,6 @@ Master's student in Cyberspace Security, based in Chengdu, China.
 
 ## About Me
 
-- **Background**: Master's student majoring in Cyberspace Security.
-- **Location**: Chengdu, China.
 - **Interests**: Security engineering, system & network security, and related research.
 
 ---
