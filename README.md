@@ -20,10 +20,3 @@ Master's student in Cyberspace Security, based in Chengdu, China.
 ---
 
 ## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cht11&show_icons=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cht11&layout=compact)
-
-</div>
